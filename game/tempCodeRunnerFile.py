@@ -1,0 +1,1 @@
+BG= pygame.transform.scale(pygame.image.load("game/bg.jpeg"),(WIDTH,HEIGHT))
